@@ -1,0 +1,3 @@
+WSDLInterpreter is a library that creates PHP 5 classes based on a WSDL document.  Unlike other wsdl2php solutions, WSDLInterpreter utilizes the WSDL document as its source of information, as opposed to the native SoapClient interpretation of the WSDL document.  This allows for proper class inheritance, naming convention correction, and method overloading with proper method signature verification using strict type checking.
+
+Now out of beta!  Download today!  For more information, visit [The new wsdl2php - WSDLInterpreter](http://kevinvaughan.com/pages/wsdl-interpreter.php)
